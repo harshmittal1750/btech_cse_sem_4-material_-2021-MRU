@@ -1,0 +1,5 @@
+Syllabus for T1-
+SECTION A-
+Introduction: Operating system and functions, Classification of Operating systems- Batch, Interactive, Time sharing, Real Time System, Multiprocessor Systems, Multiuser Systems, Multithreaded Systems, Operating System Structure- Layered structure, System Components, Operating System services, Reentrant Kernels, Monolithic and Microkernel Systems.  Processes and Threads : Process Concept, Process Scheduling, Operations on Processes, Cooperating Processes, Interprocess Communication, Communication in Client-Server Systems, 
+SECTION B-
+CPU Scheduling: Scheduling criteria, scheduling algorithms (First Come First Serve (FCFS), Shortest-Job-First (SJF), 
